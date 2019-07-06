@@ -50,5 +50,5 @@ linkedin_url: https://www.linkedin.com/in/anna-poetsch-8b1012117
 github_url: https://github.com/chrisbobbe
 
 # The following settings are NECESSARY for the Prologue theme to run:
-remote_theme: https://github.com/chrisbobbe/jekyll-theme-prologue
+remote_theme: jekyll-theme-prologue
 collections: [sections]
