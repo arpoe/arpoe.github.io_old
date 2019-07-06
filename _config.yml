@@ -45,19 +45,10 @@ url: "https://arpoe.github.io" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url:
-facebook_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-github_url:
-pinterest_url:
-slack_url:
-dribbble_url:
-
-# Google Analytics Tracking ID goes here:
-google_analytics:
+twitter_url: https://twitter.com/APoetsch
+linkedin_url: https://www.linkedin.com/in/anna-poetsch-8b1012117
+github_url: https://github.com/chrisbobbe
 
 # The following settings are NECESSARY for the Prologue theme to run:
-remote_theme: chrisbobbe/jekyll-theme-prologue
+remote_theme: https://github.com/chrisbobbe/jekyll-theme-prologue
 collections: [sections]
