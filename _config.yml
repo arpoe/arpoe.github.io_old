@@ -40,7 +40,7 @@ avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: /home # the subpath of your site, e.g. /blog
-url: https://arpoe.github.io # the base hostname & protocol for your site
+url: http://arpoe.github.io # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
