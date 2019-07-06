@@ -39,7 +39,7 @@ email: arpoetsch@gmail.com
 avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: //arpoe.github.io # the subpath of your site, e.g. /blog
+baseurl: /home # the subpath of your site, e.g. /blog
 url: http://arpoe.github.io # the base hostname & protocol for your site
 
 # Social settings
