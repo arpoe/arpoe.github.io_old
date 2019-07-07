@@ -1,5 +1,5 @@
 ---
-title: Welcome to the new website!
+title: New website
 author: Anna
 layout: post
 ---
