@@ -8,8 +8,8 @@ order: 3
 
 This is a selection of relevant publications:
 
-1. Genomics of oxidative DNA damage, repair, and mutagenesis. Computational and Structural Biotechnology Journal, coming end of 2019
-2. AP-seq, a method to measure apurinic sites and small base adducts genome-wide. Methods in Molecular Biology, coming end of 2019
+1. [Genomics of oxidative DNA damage, repair, and mutagenesis. Computational and Structural Biotechnology Journal, 2020](https://www.sciencedirect.com/science/article/pii/S2001037019304209) 
+2. AP-seq, a method to measure apurinic sites and small base adducts genome-wide. Methods in Molecular Biology, in print
 3. [Target-Specific Precision of CRISPR-Mediated Genome Editing. Molecular Cell, 2019](https://doi.org/10.1016/j.molcel.2018.11.031)
 4. [Genomic landscape of oxidative DNA damage and repair reveals regioselective protection from mutagenesis. Genome Biology, 2018](https://doi.org/10.1186/s13059-018-1582-2)
 5. [Inactivation of the ATMIN/ATM pathway protects against glioblastoma formation. elife, 2016](https://doi.org/10.7554/eLife.08711)
