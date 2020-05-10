@@ -30,10 +30,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Genomics of Genome Instability
-subtitle: in Childhood Cancer
+title: Genome specificity of DNA damage & mutagenesis
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the website of Anna Poetsch's research group at St.Anna-Childhood Cancer Research Institute.
+  This is the website of Anna Poetsch's research group.
 author: Anna Poetsch
 email: arpoetsch@gmail.com
 avatar: assets/images/avatar.png
