@@ -3,9 +3,9 @@ title: Funding
 icon: fa-money-bill
 order: 8
 ---
-We are receiving funding and support from:
+We are receiving funding and support from:  
 
-Mildred Scheel Early Career Center of the TU Dresden
+Mildred Scheel Early Career Center of the TU Dresden  
 <img src="assets/images/MSNZ_logo.png" width="400">  
 
 The MSNZ is funded by the German Cancer Aid   
