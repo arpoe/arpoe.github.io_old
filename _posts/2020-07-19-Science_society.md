@@ -1,6 +1,6 @@
 ---
 title: Science and Society
-author: Ann
+author: Anna
 layout: post
 ---
 ## By what mechanisms does SARS-CoV2 mutate?  
